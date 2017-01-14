@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_centerHorizontal="false"
+    android:baselineAligned="false"
+    android:clipChildren="false"
+    android:layout_alignParentTop="false"
+    android:layout_alignParentLeft="false"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:layout_centerVertical="false">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_activity"
+        android:layout_gravity="bottom|center_horizontal" />
+</LinearLayout>
